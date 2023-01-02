@@ -42,6 +42,8 @@ $ yarn start
 
 ### Demo
 
+<hr />
+
 #### [View Demo](https://design-withrouter.netlify.app/)
 
 ![Demo](./MTVideo.gif)
